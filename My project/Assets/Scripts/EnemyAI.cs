@@ -1,5 +1,5 @@
 using UnityEngine;
-using UnityEngine.AI; // Обязательно для NavMesh
+using UnityEngine.AI; 
 
 public class EnemyAI : MonoBehaviour
 {
