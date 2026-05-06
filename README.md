@@ -17,7 +17,7 @@
 - Система здоровья для игрока и врагов.
 - Интерфейс со счетчиком уничтоженных врагов и полоской здоровья игрока. Автоматический перезапуск уровня при поражении.
 
-## Пример игры
+## Кадры из игры
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/4adc25ef-d4fa-485f-aed1-e9d0a327eb9b" />
 
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/3ff912f0-d642-4645-bff7-3d7c508b1573" />
